@@ -42,22 +42,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Learn the basics on Maple Island, complete your first job advancement, and start leveling with confidence."
+          "description": "Learn Maple Island basics, finish your first job advancement, and set up a character that can survive the pre-Big Bang grind."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Follow efficient training routes across Victoria Island and beyond to reach the classic level cap."
+          "description": "Follow map-by-map EXP routes and party quest tiers to move through every level bracket without wasting hours."
         },
         {
           "number": "3",
-          "title": "Party Quests",
-          "description": "Team up for Kerning City, Ludibrium and other classic party quests with full reward and strategy breakdowns."
+          "title": "Best Class Picks",
+          "description": "Compare Warriors, Magicians, Bowmen, Thieves, and Pirates by mobbing, bossing, funding needs, and party value."
         },
         {
           "number": "4",
-          "title": "Trading & Economy",
-          "description": "Understand the free market, meso farming, scroll trading, and how to gear up without overspending."
+          "title": "Farming & Mesos",
+          "description": "Learn drop-table farming, Free Market trading, and scroll budgeting so your meso stash grows instead of vanishing."
         }
       ]
     },
@@ -68,52 +68,52 @@
         "Beginner Guide",
         "Class Tier List",
         "Training Maps",
-        "Boss Guides"
+        "Boss Drops"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
           "description": "Everything you need from your first login to job advancement and early progression.",
-          "href": "/guide"
-        },
-        {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working MapleStory Classic World codes with rewards and redeem steps.",
-          "href": "/codes"
+          "href": "/guide/maplestory-classic-world-guide"
         },
         {
           "badge": "Popular",
           "title": "Class Overview",
-          "description": "Compare Warrior, Magician, Bowman and Thief before you commit to a class.",
-          "href": "/races"
+          "description": "Compare Warrior, Magician, Bowman, Thief and Pirate before you commit to a main.",
+          "href": "/classes/maplestory-classic-world-classes"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every classic boss location, drop table, and respawn timer in one reference.",
-          "href": "/bosses"
+          "title": "Class Tier List",
+          "description": "Every Explorer job ranked for bossing, mobbing, funding needs, and party value.",
+          "href": "/classes/maplestory-classic-world-class-tier-list"
         },
         {
           "badge": "New",
           "title": "Training Maps",
-          "description": "The best leveling maps for every level range with spawn and mob details.",
-          "href": "/maps"
+          "description": "The best leveling maps for every bracket with EXP routes and party quest tiers.",
+          "href": "/guide/maplestory-classic-world-training-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Boss Drop Tables",
+          "description": "How drop rolls work and where to farm rare gear, scrolls, and boss accessories.",
+          "href": "/items/maplestory-classic-world-drop-table"
         },
         {
           "badge": "New",
-          "title": "Skill Database",
-          "description": "All classic job skills with damage values, cooldowns, and build priorities.",
-          "href": "/skills"
+          "title": "Mesos Guide",
+          "description": "Earn, save, and spend mesos with practical farming routes and market timing.",
+          "href": "/items/maplestory-classic-world-mesos"
         }
       ]
     },
     "aboutGame": {
       "title": "What is MapleStory Classic World?",
       "paragraphs": [
-        "MapleStory Classic World is a nostalgic pre-Big Bang MMORPG that brings back the classic MapleStory experience: slower progression, party quests, exploration, trading, and the original Explorer classes. It is officially playable through the Nexon Launcher and Steam, with Founder's Access opening on October 6, 2026 and full launch on October 21, 2026.",
-        "Whether you are chasing your first job advancement, hunting classic bosses, or rebuilding your meso fortune in the free market, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "MapleStory Classic World is Nexon's classic pre-Big Bang MMORPG service, rebuilt around the systems that defined early MapleStory: slow leveling, manual job advancements at fixed levels, scroll-based gear upgrades, party quests, and a player-run Free Market. It is officially playable through the Nexon Launcher and Steam, with Founder's Access opening on October 6, 2026 and full launch on October 21, 2026.",
+        "The result is a deliberately social game where clear speed, map density, and survivability decide how fast you level, and where Clerics, Bishops, and Dark Knights stay in demand for their party buffs. Our wiki covers every system — classes, stats, ability points, training maps, boss preparation, mesos, and items — with practical guides built for the classic grind."
       ],
       "stats": [
         {
@@ -126,7 +126,7 @@
         },
         {
           "label": "Genre",
-          "value": "Classic MMORPG"
+          "value": "Classic 2D MMORPG"
         },
         {
           "label": "Release Date",
@@ -149,135 +149,189 @@
     },
     "explore": {
       "title": "Explore the MapleStory Classic World Wiki",
-      "description": "Everything you need for the classic MapleStory experience: codes, beginner guides, class tier lists, skill databases, training maps, and boss strategies.",
+      "description": "Everything you need for the classic grind: beginner guides, class tier lists, leveling routes, training maps, boss drop tables, release news, and Founder's Pack details.",
       "modules": [
         {
           "order": 1,
-          "name": "MapleStory Classic World Codes",
-          "description": "Redeem the latest working codes for free mesos, cosmetics, and boost items before they expire.",
-          "href": "/codes",
-          "displayType": "code-cards",
+          "name": "MapleStory Classic World Beginner Guide",
+          "description": "Essential information for new players: how Classic World works, starting choices, early progression, and the preparation that matters before launch.",
+          "href": "/guide/maplestory-classic-world-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "COMING-SOON",
-              "detail": "No active codes currently available"
+              "label": "1",
+              "detail": "Create your Explorer and clear the Maple Island tutorial quests"
             },
             {
-              "label": "STAY-TUNED",
-              "detail": "Check back soon for new codes"
+              "label": "2",
+              "detail": "Travel to Victoria Island and complete your first job advancement"
+            },
+            {
+              "label": "3",
+              "detail": "Follow early training maps and stack quests to reach level 30"
+            },
+            {
+              "label": "4",
+              "detail": "Save mesos, start scrolling gear, and join party quests"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start Your First Character",
-          "description": "Step-by-step beginner guide covering Maple Island, job advancement, quests, and early training routes.",
-          "href": "/guide",
-          "displayType": "step-by-step",
+          "name": "MapleStory Classic World Classes Guide",
+          "description": "Detailed introductions to every job path, playstyle, and recommended pick, including Warrior, Magician, Bowman, Thief, and Pirate branches.",
+          "href": "/classes/maplestory-classic-world-class-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Create your Explorer and clear the Maple Island tutorial quests"
+              "label": "S",
+              "detail": "Bishop, Night Lord, and Hero — top party and bossing picks"
             },
             {
-              "label": "Step 2",
-              "detail": "Travel to Victoria Island and complete your first job advancement"
+              "label": "A",
+              "detail": "Dark Knight, Marksman, Bowmaster, and Ice/Lightning Arch Mage"
             },
             {
-              "label": "Step 3",
-              "detail": "Follow the recommended early training maps to reach level 30"
+              "label": "B",
+              "detail": "Paladin, Shadower, Buccaneer, Corsair, and Fire/Poison Arch Mage"
             },
             {
-              "label": "Step 4",
-              "detail": "Start collecting scrolls, potions, and mesos for your first gear set"
+              "label": "C",
+              "detail": "Jobs that need the most funding before they feel strong"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Class Tier List & Comparison",
-          "description": "Compare the classic Explorer classes by damage, mobility, funding needs, and party utility.",
-          "href": "/tier-list",
-          "displayType": "tier-grid",
+          "name": "MapleStory Classic World Release Date",
+          "description": "Official launch information, testing updates, platform availability, and the timeline events that decide when you can play.",
+          "href": "/release/maplestory-classic-world-release-date",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Magician - strong early magic damage and cheap leveling"
+              "label": "OCT 6, 2026",
+              "detail": "Founder's Access opens for early players"
             },
             {
-              "label": "A",
-              "detail": "Warrior - durable melee frontline with reliable bossing"
+              "label": "OCT 21, 2026",
+              "detail": "Official MapleStory Classic World launch"
             },
             {
-              "label": "B",
-              "detail": "Bowman - safe ranged damage with high mobility"
-            },
-            {
-              "label": "C",
-              "detail": "Thief - high burst but needs funding to shine"
+              "label": "STEAM + NEXON",
+              "detail": "Two supported platforms at launch"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Skill Database & Builds",
-          "description": "Every classic job skill with damage values, cooldowns, prerequisites, and recommended build orders.",
-          "href": "/skills",
-          "displayType": "card-list",
+          "name": "MapleStory Classic World Leveling Guide",
+          "description": "Leveling routes, map density, party quest tiers, and the habits that keep EXP per hour high through every bracket.",
+          "href": "/guide/maplestory-classic-world-leveling-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "1st",
-              "detail": "Beginner and first job skills"
+              "label": "1",
+              "detail": "Levels 1–10: finish Maple Island tutorial quests and pick a job"
             },
             {
-              "label": "2nd",
-              "detail": "Second job advancement skills"
+              "label": "2",
+              "detail": "Levels 10–30: build a potion budget around Henesys and Kerning City"
             },
             {
-              "label": "3rd",
-              "detail": "Third job advancement skills"
+              "label": "3",
+              "detail": "Levels 30–50: learn party play in Ludibrium and Monster Carnival"
+            },
+            {
+              "label": "4",
+              "detail": "Levels 50–120: specialize in El Nath, Orbis, Aqua Road, and Leafre"
             }
           ]
         },
         {
           "order": 5,
-          "name": "Training Maps & Leveling Routes",
-          "description": "The best maps for every level range with spawn density, mob levels, and party quest alternatives.",
-          "href": "/maps",
-          "displayType": "step-by-step",
+          "name": "MapleStory Classic World Boss Guide",
+          "description": "Boss preparation, party roles, HP thresholds, and the drop tables behind Zakum, Papulatus, and classic raid content.",
+          "href": "/items/maplestory-classic-world-drop-table",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "1-30",
-              "detail": "Maple Island, Henesys Hunting Grounds, and Kerning City party quests"
+              "label": "Zakum",
+              "detail": "Party boss that demands HP washing and coordinated damage"
             },
             {
-              "label": "30-70",
-              "detail": "Ludibrium, Orbis, and Aqua Road training maps"
+              "label": "Papulatus",
+              "detail": "Clocktower boss with valuable equipment drops"
             },
             {
-              "label": "70+",
-              "detail": "El Nath, Ludibrium Clocktower, and high-level boss prep"
+              "label": "Horntail",
+              "detail": "Long endgame fight built for a prepared, organized party"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Boss Guides & Drop Tables",
-          "description": "Classic boss strategies with spawn conditions, attack patterns, drops, and recommended party setups.",
-          "href": "/bosses",
+          "name": "MapleStory Classic World Maps Guide",
+          "description": "Important regions, towns, hunting grounds, and travel routes across Victoria Island, Ludibrium, and beyond.",
+          "href": "/guide/maplestory-classic-world-training-guide",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Mushmom",
-              "detail": "Early boss with useful drops and a quick respawn timer"
+              "label": "Henesys",
+              "detail": "Starter town and hunting grounds for levels 10–30"
             },
             {
-              "label": "Zakum",
-              "detail": "Party boss requiring preparation and coordinated damage"
+              "label": "Kerning",
+              "detail": "Party quest hub and early training area"
             },
             {
-              "label": "Papulatus",
-              "detail": "Clocktower boss with valuable equipment drops"
+              "label": "Ludibrium",
+              "detail": "Mid-game training towers and Monster Carnival"
+            },
+            {
+              "label": "El Nath",
+              "detail": "Level 50+ hunting grounds with harsh terrain"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "MapleStory Classic World News Updates",
+          "description": "Official announcements, roadmap phases, testing news, and the content cadence players are tracking.",
+          "href": "/release/maplestory-classic-world-roadmap",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roadmap",
+              "detail": "Phased level caps, job unlocks, and boss timing"
+            },
+            {
+              "label": "Launch",
+              "detail": "What veterans and newcomers should expect at launch"
+            },
+            {
+              "label": "Access",
+              "detail": "Founder's Access details and the regional rollout"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "MapleStory Classic World Founder Packs",
+          "description": "Access options, package tiers, platform choices, and what to verify before buying a Founder's Pack.",
+          "href": "/release/maplestory-classic-world-founders-pack",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Standard",
+              "detail": "Base access, one cosmetic piece, and a small currency bundle"
+            },
+            {
+              "label": "Deluxe",
+              "detail": "Adds a pet, extra inventory slots, and name reservation"
+            },
+            {
+              "label": "Collector",
+              "detail": "Multiple cosmetics, a mount, and EXP or drop boosters"
             }
           ]
         }
@@ -289,23 +343,23 @@
       "items": [
         {
           "question": "What is MapleStory Classic World?",
-          "answer": "MapleStory Classic World is a classic pre-Big Bang MMORPG experience from Nexon. It brings back the original Explorer classes, party quests, trading, exploration, and slower progression with modern quality-of-life improvements."
+          "answer": "MapleStory Classic World is a classic pre-Big Bang MMORPG service from Nexon. It restores the original Explorer job branches, manual job advancements, scroll-based gear upgrades, party quests, and a player-run Free Market."
         },
         {
           "question": "When does MapleStory Classic World release?",
-          "answer": "Founder's Access opens on October 6, 2026, and the official launch is scheduled for October 21, 2026."
+          "answer": "Founder's Access opened on October 6, 2026, and the official MapleStory Classic World launch is scheduled for October 21, 2026 on the Nexon Launcher and Steam."
         },
         {
-          "question": "Which platforms support MapleStory Classic World?",
-          "answer": "The game is officially playable through the Nexon Launcher and on Steam."
+          "question": "Which class should I pick in MapleStory Classic World?",
+          "answer": "Bishop, Night Lord, and Hero sit at the top of the community tier list for party value and bossing, while Warrior and Magician are the smoothest picks for a first character in MapleStory Classic World."
         },
         {
-          "question": "How many classic classes are there?",
-          "answer": "The classic experience focuses on 4 core Explorer classes, each with distinct job advancement paths and playstyles."
+          "question": "How long does leveling take in MapleStory Classic World?",
+          "answer": "Leveling in MapleStory Classic World is deliberately slow. Clear speed, map density, and survivability decide your EXP per hour, so progress is measured in hours per level rather than minutes."
         },
         {
-          "question": "Are there active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions. New codes are added as they are released."
+          "question": "Does MapleStory Classic World have a Founder's Pack?",
+          "answer": "Yes. MapleStory Classic World Founder's Packs are sold in Standard, Deluxe, and Collector tiers around launch and typically include head-start access, cosmetics, a pet, inventory slots, and name reservation."
         }
       ]
     },

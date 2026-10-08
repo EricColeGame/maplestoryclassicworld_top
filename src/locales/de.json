@@ -1,1 +1,444 @@
-{}
+{
+  "site": {
+    "name": "MapleStory Classic World Wiki",
+    "shortName": "MapleStory Classic World",
+    "tagline": "Klassische Pre-Big-Bang-MMORPG-Guides & Datenbank",
+    "description": "MapleStory Classic World Wiki mit Klassen-Guides, Karten, Quests, Skills, Monstern, Level-Tipps, Party-Quests, Release-News und klassischen Spielinformationen.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "release": "Release",
+    "guide": "Guide",
+    "classes": "Klassen",
+    "mechanics": "Mechaniken",
+    "items": "Items",
+    "progression": "Progression",
+    "community": "Community",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln"
+  },
+  "home": {
+    "meta": {
+      "title": "MapleStory Classic World Wiki - Klassen, Guides & Karten",
+      "description": "MapleStory Classic World Wiki mit Klassen-Guides, Karten, Quests, Skills, Monstern, Level-Tipps, Party-Quests, Release-News und klassischen Spielinformationen."
+    },
+    "hero": {
+      "eyebrow": "Klassisches Pre-Big-Bang-MMORPG",
+      "title": "MapleStory Classic World Wiki",
+      "description": "Ein nostalgisches Pre-Big-Bang-MMORPG mit klassischen Klassen, langsamerer Progression, Party-Quests, Erkundung, Handel und modernen Komfortfunktionen.",
+      "stats": [
+        "Release: 21. Oktober 2026",
+        "4 klassische Klassen",
+        "2 unterstützte Plattformen",
+        "Founder's Access: 6. Oktober 2026"
+      ],
+      "primaryCta": "Anfänger-Guide",
+      "secondaryCta": "Klassen-Tier-Liste",
+      "tertiaryCta": "Auf Steam spielen",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine MapleStory-Classic-World-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfänger-Guide",
+          "description": "Lerne die Grundlagen von Maple Island, schließe deine erste Job-Beförderung ab und baue einen Charakter, der den Pre-Big-Bang-Grind übersteht."
+        },
+        {
+          "number": "2",
+          "title": "Schnellstes Leveling",
+          "description": "Folge Karte-für-Karte-EXP-Routen und Party-Quest-Stufen, um jede Level-Spanne ohne verlorene Stunden zu durchlaufen."
+        },
+        {
+          "number": "3",
+          "title": "Beste Klassenwahl",
+          "description": "Vergleiche Krieger, Magier, Bogenschützen, Diebe und Piraten nach Mobbing, Bossing, Funding-Bedarf und Party-Wert."
+        },
+        {
+          "number": "4",
+          "title": "Farmen & Mesos",
+          "description": "Lerne Drop-Table-Farming, Free-Market-Handel und Scroll-Budgetierung, damit dein Meso-Vorrat wächst statt zu verschwinden."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Anfänger-Guide",
+        "Klassen-Tier-Liste",
+        "Trainingskarten",
+        "Boss-Drops"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfänger-Guide",
+          "description": "Alles vom ersten Login bis zur Job-Beförderung und frühen Progression.",
+          "href": "/guide/maplestory-classic-world-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Klassenübersicht",
+          "description": "Vergleiche Krieger, Magier, Bogenschütze, Dieb und Pirat, bevor du dich für einen Main entscheidest.",
+          "href": "/classes/maplestory-classic-world-classes"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Klassen-Tier-Liste",
+          "description": "Jeder Explorer-Job bewertet nach Bossing, Mobbing, Funding-Bedarf und Party-Wert.",
+          "href": "/classes/maplestory-classic-world-class-tier-list"
+        },
+        {
+          "badge": "Neu",
+          "title": "Trainingskarten",
+          "description": "Die besten Level-Karten für jede Spanne mit EXP-Routen und Party-Quest-Stufen.",
+          "href": "/guide/maplestory-classic-world-training-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Boss-Drop-Tabellen",
+          "description": "Wie Drop-Würfe funktionieren und wo du seltene Ausrüstung, Scrolls und Boss-Accessoires farmst.",
+          "href": "/items/maplestory-classic-world-drop-table"
+        },
+        {
+          "badge": "Neu",
+          "title": "Mesos-Guide",
+          "description": "Mesos verdienen, sparen und ausgeben mit praktischen Farmrouten und Markt-Timing.",
+          "href": "/items/maplestory-classic-world-mesos"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist MapleStory Classic World?",
+      "paragraphs": [
+        "MapleStory Classic World ist Nexons klassischer Pre-Big-Bang-MMORPG-Dienst, neu aufgebaut um die Systeme, die das frühe MapleStory prägten: langsames Leveling, manuelle Job-Beförderungen auf festen Leveln, scroll-basierte Ausrüstungsverbesserung, Party-Quests und ein von Spielern betriebener Free Market. Es ist offiziell über den Nexon Launcher und Steam spielbar, Founder's Access öffnet am 6. Oktober 2026, der vollständige Launch folgt am 21. Oktober 2026.",
+        "Das Ergebnis ist ein bewusst soziales Spiel, in dem Kill-Geschwindigkeit, Kartendichte und Überlebensfähigkeit bestimmen, wie schnell du levelst, und in dem Clerics, Bishops und Dark Knights wegen ihrer Party-Buffs gefragt bleiben. Unser Wiki deckt jedes System ab — Klassen, Stats, Ability Points, Trainingskarten, Boss-Vorbereitung, Mesos und Items — mit praktischen Guides für den klassischen Grind."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Nexon"
+        },
+        {
+          "label": "Plattform",
+          "value": "Nexon Launcher & Steam"
+        },
+        {
+          "label": "Genre",
+          "value": "Klassisches 2D-MMORPG"
+        },
+        {
+          "label": "Release-Datum",
+          "value": "21. Oktober 2026"
+        },
+        {
+          "label": "Founder's Access",
+          "value": "6. Oktober 2026"
+        },
+        {
+          "label": "Klassische Klassen",
+          "value": "4"
+        },
+        {
+          "label": "Progression",
+          "value": "Pre-Big-Bang"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Das MapleStory Classic World Wiki erkunden",
+      "description": "Alles für den klassischen Grind: Anfänger-Guides, Klassen-Tier-Listen, Leveling-Routen, Trainingskarten, Boss-Drop-Tabellen, Release-News und Founder's-Pack-Details.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "MapleStory Classic World Anfänger-Guide",
+          "description": "Wichtige Informationen für neue Spieler: wie Classic World funktioniert, Startentscheidungen, frühe Progression und die Vorbereitung, die vor dem Launch zählt.",
+          "href": "/guide/maplestory-classic-world-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Erstelle deinen Explorer und schließe die Tutorial-Quests auf Maple Island ab"
+            },
+            {
+              "label": "2",
+              "detail": "Reise nach Victoria Island und schließe deine erste Job-Beförderung ab"
+            },
+            {
+              "label": "3",
+              "detail": "Folge frühen Trainingskarten und staple Quests, um Level 30 zu erreichen"
+            },
+            {
+              "label": "4",
+              "detail": "Spare Mesos, beginne Ausrüstung zu scrollen und tritt Party-Quests bei"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "MapleStory Classic World Klassen-Guide",
+          "description": "Detaillierte Einführungen in jeden Job-Pfad, Spielstil und empfohlene Wahl, inklusive Krieger-, Magier-, Bogenschützen-, Diebes- und Piraten-Zweigen.",
+          "href": "/classes/maplestory-classic-world-class-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Bishop, Night Lord und Hero — Top-Picks für Party und Bossing"
+            },
+            {
+              "label": "A",
+              "detail": "Dark Knight, Marksman, Bowmaster und Ice/Lightning Arch Mage"
+            },
+            {
+              "label": "B",
+              "detail": "Paladin, Shadower, Buccaneer, Corsair und Fire/Poison Arch Mage"
+            },
+            {
+              "label": "C",
+              "detail": "Jobs, die das meiste Funding brauchen, bevor sie stark wirken"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "MapleStory Classic World Release-Datum",
+          "description": "Offizielle Launch-Infos, Test-Updates, Plattformverfügbarkeit und die Timeline-Ereignisse, die entscheiden, wann du spielen kannst.",
+          "href": "/release/maplestory-classic-world-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "6. OKT 2026",
+              "detail": "Founder's Access öffnet für frühe Spieler"
+            },
+            {
+              "label": "21. OKT 2026",
+              "detail": "Offizieller MapleStory-Classic-World-Launch"
+            },
+            {
+              "label": "STEAM + NEXON",
+              "detail": "Zwei unterstützte Plattformen zum Launch"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "MapleStory Classic World Leveling-Guide",
+          "description": "Leveling-Routen, Kartendichte, Party-Quest-Stufen und die Gewohnheiten, die EXP pro Stunde in jeder Spanne hoch halten.",
+          "href": "/guide/maplestory-classic-world-leveling-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Level 1–10: Tutorial-Quests auf Maple Island abschließen und Job wählen"
+            },
+            {
+              "label": "2",
+              "detail": "Level 10–30: Tränke-Budget rund um Henesys und Kerning City aufbauen"
+            },
+            {
+              "label": "3",
+              "detail": "Level 30–50: Party-Spiel in Ludibrium und Monster Carnival lernen"
+            },
+            {
+              "label": "4",
+              "detail": "Level 50–120: auf El Nath, Orbis, Aqua Road und Leafre spezialisieren"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "MapleStory Classic World Boss-Guide",
+          "description": "Boss-Vorbereitung, Party-Rollen, HP-Schwellen und die Drop-Tabellen hinter Zakum, Papulatus und klassischem Raid-Content.",
+          "href": "/items/maplestory-classic-world-drop-table",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Zakum",
+              "detail": "Party-Boss, der HP-Washing und koordinierten Schaden verlangt"
+            },
+            {
+              "label": "Papulatus",
+              "detail": "Uhrturm-Boss mit wertvollen Ausrüstungsdrops"
+            },
+            {
+              "label": "Horntail",
+              "detail": "Langer Endgame-Kampf für eine vorbereitete, organisierte Party"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "MapleStory Classic World Karten-Guide",
+          "description": "Wichtige Regionen, Städte, Jagdgebiete und Reiserouten über Victoria Island, Ludibrium und hinaus.",
+          "href": "/guide/maplestory-classic-world-training-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Henesys",
+              "detail": "Startstadt und Jagdgebiete für Level 10–30"
+            },
+            {
+              "label": "Kerning",
+              "detail": "Party-Quest-Hub und frühes Trainingsgebiet"
+            },
+            {
+              "label": "Ludibrium",
+              "detail": "Trainings-Türme des Midgames und Monster Carnival"
+            },
+            {
+              "label": "El Nath",
+              "detail": "Jagdgebiete ab Level 50 mit rauem Gelände"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "MapleStory Classic World News-Updates",
+          "description": "Offizielle Ankündigungen, Roadmap-Phasen, Test-News und die Content-Kadenz, die Spieler verfolgen.",
+          "href": "/release/maplestory-classic-world-roadmap",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roadmap",
+              "detail": "Phasenweise Level-Caps, Job-Freischaltungen und Boss-Timing"
+            },
+            {
+              "label": "Launch",
+              "detail": "Was Veteranen und Neueinsteiger zum Launch erwarten sollten"
+            },
+            {
+              "label": "Access",
+              "detail": "Details zu Founder's Access und der regionale Rollout"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "MapleStory Classic World Founder-Packs",
+          "description": "Access-Optionen, Paketstufen, Plattformwahl und was du vor dem Kauf eines Founder's Packs prüfen solltest.",
+          "href": "/release/maplestory-classic-world-founders-pack",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Standard",
+              "detail": "Basis-Access, ein Kosmetik-Teil und ein kleines Währungsbündel"
+            },
+            {
+              "label": "Deluxe",
+              "detail": "Ergänzt ein Pet, zusätzliche Inventarplätze und Namensreservierung"
+            },
+            {
+              "label": "Collector",
+              "detail": "Mehrere Kosmetik-Teile, ein Mount und EXP- oder Drop-Booster"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu MapleStory Classic World.",
+      "items": [
+        {
+          "question": "Was ist MapleStory Classic World?",
+          "answer": "MapleStory Classic World ist ein klassischer Pre-Big-Bang-MMORPG-Dienst von Nexon. Er stellt die ursprünglichen Explorer-Job-Zweige, manuelle Job-Beförderungen, scroll-basierte Ausrüstungsverbesserung, Party-Quests und einen von Spielern betriebenen Free Market wieder her."
+        },
+        {
+          "question": "Wann erscheint MapleStory Classic World?",
+          "answer": "Founder's Access öffnete am 6. Oktober 2026, und der offizielle MapleStory-Classic-World-Launch ist für den 21. Oktober 2026 über den Nexon Launcher und Steam geplant."
+        },
+        {
+          "question": "Welche Klasse sollte ich in MapleStory Classic World wählen?",
+          "answer": "Bishop, Night Lord und Hero stehen an der Spitze der Community-Tier-Liste für Party-Wert und Bossing, während Krieger und Magier die unkompliziertesten Picks für einen ersten Charakter sind."
+        },
+        {
+          "question": "Wie lange dauert das Leveling in MapleStory Classic World?",
+          "answer": "Das Leveling ist bewusst langsam. Kill-Geschwindigkeit, Kartendichte und Überlebensfähigkeit bestimmen deine EXP pro Stunde, daher wird Fortschritt in Stunden pro Level statt in Minuten gemessen."
+        },
+        {
+          "question": "Gibt es ein Founder's Pack in MapleStory Classic World?",
+          "answer": "Ja. Founder's Packs werden rund um den Launch in den Stufen Standard, Deluxe und Collector verkauft und enthalten typischerweise Head-Start-Zugang, Kosmetik, ein Pet, Inventarplätze und Namensreservierung."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, MapleStory Classic World zu erkunden?",
+      "description": "Von deinen ersten Schritten auf Maple Island bis zu klassischen Bosskämpfen — unser Community-Wiki bietet dir kostenlose, aktuelle Guides.",
+      "primary": "Den Anfänger-Guide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "release": {
+    "overviewTitle": "MapleStory Classic World Release & Launch-News",
+    "overviewDescription": "Release-Daten, Founder's-Access-Timing, Launch-Roadmap und Founder's-Pack-Details für MapleStory Classic World."
+  },
+  "guide": {
+    "overviewTitle": "MapleStory Classic World Guides",
+    "overviewDescription": "Anfänger-Guides, Leveling-Routen, Quest-Walkthroughs und Trainings-Tipps für den Einstieg in MapleStory Classic World."
+  },
+  "classes": {
+    "overviewTitle": "MapleStory Classic World Klassen",
+    "overviewDescription": "Klassenwahl, Job-Übersichten und Tier-Listen für Krieger, Bogenschützen, Piraten und jede MapleStory-Classic-World-Klasse."
+  },
+  "mechanics": {
+    "overviewTitle": "MapleStory Classic World Spielmechaniken",
+    "overviewDescription": "Job-Beförderungen, EXP-Raten, Klassenwechsel und Skill-System-Mechaniken für MapleStory Classic World erklärt."
+  },
+  "items": {
+    "overviewTitle": "MapleStory Classic World Items & Mesos",
+    "overviewDescription": "Item-Guides, Drop-Tabellen, Meso-Farmrouten und Cash-Shop-Details für MapleStory Classic World."
+  },
+  "progression": {
+    "overviewTitle": "MapleStory Classic World Progression",
+    "overviewDescription": "Stat- und Ability-Point-Builds, HP-Washing, Level-Cap-Hinweise und langfristige Progressionsplanung für MapleStory Classic World."
+  },
+  "community": {
+    "overviewTitle": "MapleStory Classic World Community",
+    "overviewDescription": "Offizielle Kanäle, Discord- und Reddit-Communitys, Reviews und Trailer für MapleStory Classic World."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnSteam": "Auf Steam spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Artikel",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "MapleStory Classic World Wiki",
+    "about": "Das MapleStory Classic World Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Klassen, Quests, Bossen, Skills, Karten und wichtigem Spielwissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 MapleStory Classic World Wiki. Nicht mit Nexon verbunden.",
+    "description": "Klassisches Pre-Big-Bang-MMORPG im Nexon Launcher und auf Steam. 4 klassische Klassen, Party-Quests und Handel.",
+    "playGame": "Auf Steam spielen",
+    "officialDiscord": "Community-Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "officialForums": "Offizielle Foren",
+    "beginnerGuide": "Anfänger-Guide",
+    "classGuides": "Klassen-Guides",
+    "progressionGuides": "Progression",
+    "itemGuides": "Items & Mesos",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

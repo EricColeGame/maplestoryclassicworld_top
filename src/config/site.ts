@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@MapleStory",
     forums: "https://forums.maplestory.nexon.net/",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ko", "ja", "de"],
   defaultLocale: "en",
 };

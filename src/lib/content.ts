@@ -260,11 +260,31 @@ const GROUP_TITLES_JA: Record<string, string> = {
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  ko: {
+    release: "출시",
+    guide: "초보자 가이드",
+    classes: "직업",
+    mechanics: "게임 시스템",
+    items: "아이템",
+    progression: "육성",
+    community: "커뮤니티",
+  },
+  de: {
+    release: "Release",
+    guide: "Erste Schritte",
+    classes: "Klassen",
+    mechanics: "Mechaniken",
+    items: "Items",
+    progression: "Progression",
+    community: "Community",
+  },
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  ko: "개요",
+  de: "Übersicht",
 };
 
 // 分组排序顺序

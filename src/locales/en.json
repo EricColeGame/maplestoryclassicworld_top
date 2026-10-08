@@ -7,6 +7,13 @@
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
+    "release": "Release",
+    "guide": "Guide",
+    "classes": "Classes",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "progression": "Progression",
+    "community": "Community",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
   },
@@ -370,7 +377,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "release": {
+    "overviewTitle": "MapleStory Classic World Release & Launch News",
+    "overviewDescription": "Release dates, Founder's Access timing, launch roadmap, and Founder's Pack details for MapleStory Classic World."
+  },
+  "guide": {
+    "overviewTitle": "MapleStory Classic World Guides",
+    "overviewDescription": "Beginner guides, leveling routes, quest walkthroughs, and training spot tips to get started in MapleStory Classic World."
+  },
+  "classes": {
+    "overviewTitle": "MapleStory Classic World Classes",
+    "overviewDescription": "Class picks, job overviews, and tier lists for Warrior, Archer, Pirate, and every MapleStory Classic World class."
+  },
+  "mechanics": {
+    "overviewTitle": "MapleStory Classic World Game Mechanics",
+    "overviewDescription": "Job advancements, EXP rates, class changes, and skill system mechanics explained for MapleStory Classic World."
+  },
+  "items": {
+    "overviewTitle": "MapleStory Classic World Items & Mesos",
+    "overviewDescription": "Item guides, drop tables, meso farming routes, and Cash Shop details for MapleStory Classic World."
+  },
+  "progression": {
+    "overviewTitle": "MapleStory Classic World Progression",
+    "overviewDescription": "Stat and ability point builds, HP washing, level cap notes, and long-term progression planning for MapleStory Classic World."
+  },
+  "community": {
+    "overviewTitle": "MapleStory Classic World Community",
+    "overviewDescription": "Official channels, Discord and Reddit communities, reviews, and trailers for MapleStory Classic World."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -401,9 +435,9 @@
     "officialYoutube": "Official YouTube",
     "officialForums": "Official Forums",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Class Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "classGuides": "Class Guides",
+    "progressionGuides": "Progression",
+    "itemGuides": "Items & Mesos",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

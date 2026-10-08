@@ -7,22 +7,8 @@
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
-    "races": "Races",
-    "bosses": "Bosses",
-    "guides": "Guides",
-    "codes": "Codes",
-    "tierList": "Tier List",
-    "maps": "Maps",
-    "skills": "Skills",
-    "updates": "Updates",
-    "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "guide": "Guides",
-    "seafood": "Seafood & Recipes",
-    "upgrades": "Upgrades",
-    "gamepasses": "Gamepasses",
-    "community": "Community"
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
@@ -330,19 +316,7 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {
-    "meta": {
-      "title": "Bosses - Complete Guide & Walkthrough | MapleStory Classic World Wiki",
-      "description": "Complete boss guides for MapleStory Classic World - classic bosses from Mushmom to Zakum with strategies, drops, and respawn timers."
-    },
-    "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every classic boss encounter in MapleStory Classic World, from early field bosses to party raids with detailed drop tables and strategies.",
-    "body": "Bosses in MapleStory Classic World are progression milestones and gear checks. Early field bosses such as Mushmom and Jr. Balrog teach you crowd control and positioning, while party bosses like Zakum and Papulatus require preparation, coordinated damage, and the right potions. Many bosses drop scrolls, equipment, and rare items that define the classic economy. Use the guides below to prepare your party, learn attack patterns, and farm efficiently.",
-    "guidesTitle": "Boss Guides",
-    "readMore": "Read more",
-    "new": "New",
-    "popular": "Popular"
-  },
+  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
